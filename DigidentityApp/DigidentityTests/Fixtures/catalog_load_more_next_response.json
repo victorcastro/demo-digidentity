@@ -1,0 +1,14 @@
+[
+    {
+        "text": "Existing",
+        "confidence": 0.1,
+        "image": "https://placehold.co/512x512?text=existing",
+        "_id": "existing"
+    },
+    {
+        "text": "New",
+        "confidence": 0.8,
+        "image": "https://placehold.co/512x512?text=new",
+        "_id": "new"
+    }
+]

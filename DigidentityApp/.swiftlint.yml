@@ -1,0 +1,29 @@
+disabled_rules:
+  - trailing_whitespace
+
+opt_in_rules:
+  - empty_count
+  - force_unwrapping
+  - sorted_imports
+
+line_length:
+  warning: 120
+  error: 140
+
+type_body_length:
+  warning: 300
+  error: 400
+
+function_body_length:
+  warning: 60
+  error: 90
+
+identifier_name:
+  min_length:
+    warning: 2
+  excluded:
+    - id
+
+excluded:
+  - Digidentity.xcodeproj
+  - DerivedData

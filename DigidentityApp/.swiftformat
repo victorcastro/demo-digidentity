@@ -1,0 +1,10 @@
+--swiftversion 5.0
+--indent 4
+--semicolons never
+--commas inline
+--trimwhitespace always
+--insertlines enabled
+--strip-unused-args closure-only
+--wraparguments before-first
+--wrapcollections before-first
+--maxwidth 120
